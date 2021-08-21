@@ -1,6 +1,6 @@
 ### Hi, I'm Sonny 👋
 
-I'm a coffee farmer. I grew up in a small coffee-farming village in Vietnam. I spend a lot of my young years with dogs and soils. 
+I'm a coffee farmer. I grew up in [Daklak](https://en.wikipedia.org/wiki/Đắk_Lắk_Province), a small coffee-farming village, in Vietnam. I spend a lot of my young years with dogs and soils. 
 - 🔭 I’m currently a PhD Candidate in Atmospheric Science at Monash University.
 - 🌱 I’m currently learning how to adapt machine learning to tackle weather and climate problems.
 - 👯 I’m looking to collaborate on environmental issues.
