@@ -1,9 +1,7 @@
 ### Hi, I'm Sonny 👋
 
 I'm a coffee farmer. I grew up in [Daklak](https://en.wikipedia.org/wiki/Đắk_Lắk_Province), a small coffee-farming village, in Vietnam. I spend a lot of my young years with dogs and soils. 
-- 🔭 I’m currently a PhD Candidate in Atmospheric Science at Monash University.
-- 🌱 I’m currently learning how to adapt machine learning to tackle environmental problems.
-- 👯 I’m looking to collaborate on environmental issues.
+- 🔭 I am a Research Scientist in the Climate Extremes and Projections group at the Climate Science Centre, CSIRO.
 - 📫 I'm best reached via [email](sonny.metvn@gmail.com)
 <!--
 **sonnymetvn/sonnymetvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
